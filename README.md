@@ -1,5 +1,10 @@
 # 💫 About Me:
-I am currently in BSC-IT(THIRD YEAR) AND I AM LOOKING FOR INTERNSHIP
+Hi, I’m a BSc IT 3rd-year student passionate about software development and mobile applications.
+💻 I have hands-on experience with Android development (Kotlin), backend logic, and project-based learning through academic and personal projects.
+
+🚀 I enjoy solving real-world problems using technology and continuously improving my coding, UI/UX, and system design skills.
+
+🎯 Currently looking for an internship where I can learn from industry professionals, apply my knowledge, and grow as a developer.
 
 
 # 💻 Tech Stack:
